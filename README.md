@@ -10,4 +10,6 @@ This repository is at the very beginning of a journey.
 
 Much of the work here is done using agentic engineering, maybe bringing lots of ideas from recent years to the ground with the giant help of AI. 
 
-Goals and roadmap are still a to-do. Thanks to @steipete for his inspiring work and statements.
+Goals and roadmap are still a to-do. 
+
+Thanks to [@steipete](https://github.com/steipete) for his inspiring work and statements.
