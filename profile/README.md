@@ -8,7 +8,7 @@ By exchanging these observations, participants can coordinate responses such as 
 
 These repositories are at the very beginning of a journey. 
 
-Much of the work here is done using agentic engineering, (maybe) bringing lots of ideas from recent years to the ground with the giant help of AI. 
+Some of the work here is done using agentic engineering, (maybe) bringing lots of ideas from recent years to the ground. 
 
 Goals and roadmap are still a to-do. 
 
